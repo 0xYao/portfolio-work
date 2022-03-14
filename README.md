@@ -1,16 +1,4 @@
-This repository contains a few code snippets from the private GitHub repositories of which I am a contributor. The code is shown for demonstration purposes only; you won't run most files due to missing dependencies.
-
-Here are the descriptions for the private GitHub repositories I worked on:
-
-# [Shwoop](https://www.shwoop.co.nz/)
-
-Shwoop is turning cities into playgrounds. It's a Pokemon-Go style social networking app. During the initial launch, the app beat LinkedIn and Twitter and was in the top 5 of iOS App Store (NZ) charts in the social networking category.
-
-I was the CTO of the company from November 2020 to June 2021. I architected and built the app using React Native, React Native Maps, Apollo client for the frontend and AWS ECS, AWS RDS, GraphQL and Nexus for the backend. During my time, I led a team of 3 engineers across the app's development. I architected and scaled the app from zero users to thousands of users. And seeing hundreds of users using the app concurrently in real life was one of the craziest experiences.
-
-See more info about the code snippets in the `/shwoop` directory.
-
-TODO: embed a video/screenshots here.
+Here are the descriptions for the private GitHub repositories I worked on (p.s. if you are a recruiter and you want to see private code snippets I have worked on, contact me on Twitter or LinkedIn and I will give you view permissions):
 
 # [Zorbi](https://zorbi.cards/)
 
@@ -23,18 +11,28 @@ Zorbi is a flashcard app that predicts when you will forget them. I am the found
 
 See more info about the code snippets in the `/zorbi` directory.
 
-![Study a deck](./assets/zorbi/study-a-deck.mp4)
+<img height="500" src="https://media.giphy.com/media/r339fPZkd827lt3WrW/giphy.gif" />
+
+# [Shwoop](https://www.shwoop.co.nz/)
+
+Shwoop is turning cities into playgrounds. It's a Pokemon-Go style social networking app. During the initial launch, the app beat LinkedIn and Twitter and was in the top 5 of iOS App Store (NZ) charts in the social networking category. Shwoop closed a $600K deal with the University of Auckland with the goal to help students on the campus to foster meaning friendships between each other. Shwoop has also received a $10K kiwi startup grant from AWS.
+
+I was the CTO of the company from November 2020 to June 2021. I architected and built the app using React Native, React Native Maps, Apollo client for the frontend and AWS ECS, AWS RDS, GraphQL and Nexus for the backend. During my time, I led a team of 3 engineers across the app's development. I architected and scaled the app from zero users to thousands of users. And seeing hundreds of users using the app concurrently in real life was one of the craziest experiences.
+
+See more info about the code snippets in the `/shwoop` directory.
+
+Here is a GIF that shows how Shwoop works:
+
+<img alt="How Shwoop Works" height="500" src="https://media.giphy.com/media/fONBvfHyr7uwEQ0vLC/giphy.gif" />
 
 # Other Repositories
 
-Note: if the repositories are still private at the time of writing, contact me and I will add you as a viewer to these repos.
-
-- Twitter bot that improves the message outreach efficiency by 100x.
-- Rewards treasury Solidity smart contract that rewards NFT holders MATIC in real time using Superfluid.
+- [twreach-cli](https://github.com/0xYao/twreach): a Twitter bot that improves the message outreach efficiency by 100x.
+- [rewards-treasury](https://github.com/ZorbiApp/rewards-contracts): a smart contract that rewards NFT holders MATIC in real time using Superfluid.
 
 # My Social Links
 
-- Resume
-- Twitter
-- LinkedIn
-- Web2 blog and Mirror
+- [Blog](https://zhongnotes.com/)
+- [Twitter](https://twitter.com/0xNarchos)
+- [LinkedIn](https://www.linkedin.com/in/0alexzhong0/)
+- [Resume](https://drive.google.com/file/d/1MVmIqnYNKoCx_FAP9Du-WWU7d1qXZ0Mw/view?usp=sharing)
